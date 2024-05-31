@@ -46,9 +46,14 @@ yearly Growth Rate:
 
 ### Summary
 • The total revenue generated over the analysed period is $137,348,768.31.
+
 • The total Profit is $44,168,198.40.
+
 • The highest monthly sales occured in month 7 of year 2013.
+
 • The lowest monthly sales occured in month 8 of year 2015.
+
 • The overall trend shows a significant increase in sales year over year, with year 2012 having highest revenue.
+
 • The overall trend describe that year 2011 having the lowest revenue declared downfall in sales.
 
